@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;MotionDeIP_v1_0&apos; to &apos;drivers&apos;" description="Move &apos;MotionDeIP_v1_0&apos; to &apos;drivers&apos;" destination="drivers" element1="MotionDeIP_v1_0" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1489147961933" updateReferences="true"/>
+</session>

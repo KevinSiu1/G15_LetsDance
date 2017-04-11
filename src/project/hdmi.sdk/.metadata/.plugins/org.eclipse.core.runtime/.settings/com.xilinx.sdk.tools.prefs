@@ -1,0 +1,13 @@
+com.xilinx.sdk.linkgen.prefs.videodemo\:.bss=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.data=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.rodata=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.sbss=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.sbss2=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.sdata=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.sdata2=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:.text=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:heap=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:heap-size=1024
+com.xilinx.sdk.linkgen.prefs.videodemo\:stack=mig_7series_0
+com.xilinx.sdk.linkgen.prefs.videodemo\:stack-size=1024
+eclipse.preferences.version=1

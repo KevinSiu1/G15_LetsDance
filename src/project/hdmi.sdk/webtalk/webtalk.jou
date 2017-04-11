@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# 
+# Start of session at: Tue Feb 28 20:27:49 2017
+# Process ID: 10396
+# Current directory: C:/ECE532/NexysVideo-master3/NexysVideo-master/Projects/hdmi/proj/hdmi.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/ECE532/NexysVideo-master3/NexysVideo-master/Projects/hdmi/proj/hdmi.sdk/webtalk/webtalk.log
+# Journal file: C:/ECE532/NexysVideo-master3/NexysVideo-master/Projects/hdmi/proj/hdmi.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

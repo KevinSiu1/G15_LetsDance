@@ -1,0 +1,7 @@
+1488164906058	Delete resource 'videodemo/xosd_driver'
+1488166063001	Delete resource 'videodemo/src/xosd_driver/xosd_g.c'
+1488166085266	Delete resource 'videodemo/src/xosd_driver/xosd_sinit.c'
+1488166251442	Delete resource 'videodemo/src/xosd_driver/xosd_selftest.c'
+1488236100294	Delete resource 'test'
+1488236108221	Delete resource 'test_bsp'
+1488236975606	Delete resource 'test/src/xosd_driver'
